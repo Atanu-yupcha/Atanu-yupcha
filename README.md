@@ -22,13 +22,13 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Technologist" width="35" height="35" /> About Me
 
 ```yaml
-name: Atanu Datta
-role: Full-Stack Developer
-location: India
-current_focus: Building scalable web applications
-interests: [Open Source, Web Development, Problem Solving]
-contact: jhoncap95@gmail.com
-fun_fact: "Code is poetry in motion 🚀"
+Name: Atanu Datta
+Role: Full-Stack Developer
+Location: India
+Current_focus: Building scalable web applications
+Interests: [Open Source, Web Development, Problem Solving]
+Contact: jhoncap95@gmail.com
+Fun_fact: "Code is poetry in motion 🚀"
 ```
 
 <img align="right" alt="Coding GIF" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
