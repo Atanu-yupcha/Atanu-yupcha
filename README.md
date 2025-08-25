@@ -68,8 +68,6 @@ Fun_fact: "Code is poetry in motion 🚀"
 
 </div>
 
----
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="35" height="35" /> GitHub Analytics
 
 <div align="center">
@@ -93,16 +91,6 @@ Fun_fact: "Code is poetry in motion 🚀"
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="35" height="35" /> GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/Atanu-yupcha">
-    <img src="https://github-profile-trophy.vercel.app/?username=Atanu-yupcha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-  </a>
-</div>
-
----
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="35" height="35" /> Connect With Me
 
 <div align="center">
@@ -113,27 +101,6 @@ Fun_fact: "Code is poetry in motion 🚀"
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atanu-yupcha)
 
 </div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="35" height="35" /> Featured Projects
-
-<div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atanu-yupcha&repo=ystaff-ui&theme=tokyonight&hide_border=true)](https://github.com/Atanu-yupcha/ystaff-ui)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atanu-yupcha&repo=Portfolio.me&theme=tokyonight&hide_border=true)](https://github.com/Atanu-yupcha/Portfolio.me)
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Snake.png" alt="Snake" width="35" height="35" /> Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Atanu-yupcha/output/snake.svg" alt="Snake animation" />
-</div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" />
