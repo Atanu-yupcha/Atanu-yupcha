@@ -108,7 +108,7 @@ Fun_fact: "Code is poetry in motion 🚀"
 
 <div align="center">
   
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Heart%20on%20Fire.png" alt="Heart on Fire" width="25" height="25" /> Show some ❤️ by starring some repositories!
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Heart%20on%20Fire.png" alt="Heart on Fire" width="25" height="25" /> Show some ❤️ by starring some of my repositories!
 
 </div>
 
